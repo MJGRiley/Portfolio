@@ -30,7 +30,7 @@ export default function Portfolio() {
               <Card.Img variant="top" src={beecomingMe} alt="BeecomingMe" />
             </a>
             <Card.Body>
-              <Card.Title>BeecomingMe ----><a href="https://github.com/courtbourt12/beecomingme">Repo</a></Card.Title>
+              <Card.Title>BeecomingMe - <a href="https://github.com/courtbourt12/beecomingme"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 Beecoming Me allows its users to create, break-down, and track
                 goals in a mobile-first designed platform. The main feature of
@@ -55,7 +55,7 @@ export default function Portfolio() {
               <Card.Img variant="top" src={WDWMWT} alt="Magical Wait Times" />
             </a>
             <Card.Body>
-              <Card.Title>Magical Wait Times - <a href="https://github.com/MJGRiley/Magical-Wait-Times">Repo</a></Card.Title>
+              <Card.Title>Magical Wait Times - <a href="https://github.com/MJGRiley/Magical-Wait-Times"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 After login or Register the user is taken to a map of Walt Disney World to select which land they would like to check out.
                 Each land page has a list of its rides and each has the current wait time next to it. Users can leave their experience about 
@@ -81,7 +81,7 @@ export default function Portfolio() {
               />
             </a>
             <Card.Body>
-              <Card.Title>Weather Dashboard - <a href="https://github.com/MJGRiley/Weather-Dashboard">Repo</a></Card.Title>
+              <Card.Title>Weather Dashboard - <a href="https://github.com/MJGRiley/Weather-Dashboard"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 Searches Open Weather API for user Input city name. Displays 5
                 day forecast & current day
@@ -99,7 +99,7 @@ export default function Portfolio() {
               />
             </a>
             <Card.Body>
-              <Card.Title>Work Day Scheduler - <a href="https://github.com/MJGRiley/Work-Day-Scheduler">Repo</a></Card.Title>
+              <Card.Title>Work Day Scheduler - <a href="https://github.com/MJGRiley/Work-Day-Scheduler"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 User is presented with a schedule including 9 text inputs, one
                 for each hour; date at the top. The text input fields change
@@ -121,7 +121,7 @@ export default function Portfolio() {
               />
             </a>
             <Card.Body>
-              <Card.Title>Offline Budget Tracker - <a href="https://github.com/MJGRiley/Offline-Budget-Tracker">Repo</a></Card.Title>
+              <Card.Title>Offline Budget Tracker - <a href="https://github.com/MJGRiley/Offline-Budget-Tracker"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 AS AN avid traveller I WANT to be able to track my withdrawals
                 and deposits with or without a data/internet connection SO THAT
@@ -136,7 +136,7 @@ export default function Portfolio() {
               <Card.Img variant="top" src={noteTaker} alt="Note Taker" />
             </a>
             <Card.Body>
-              <Card.Title>Express Note Taker - <a href="https://github.com/MJGRiley/Note-Taker">Repo</a></Card.Title>
+              <Card.Title>Express Note Taker - <a href="https://github.com/MJGRiley/Note-Taker"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 This site is a virtual notepad. Click to enter and notes will be
                 saved to a database. Notes will be loaded from the last session.
@@ -150,7 +150,7 @@ export default function Portfolio() {
               <Card.Img variant="top" src={pwgen} alt="Password Generator" />
             </a>
             <Card.Body>
-              <Card.Title>Password Generator - <a href="https://github.com/MJGRiley/Password-Generator">Repo</a></Card.Title>
+              <Card.Title>Password Generator - <a href="https://github.com/MJGRiley/Password-Generator"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></Card.Title>
               <Card.Text>
                 At button click prompt the user for length of password desired.
                 Prompt user which characters to inclue: Uppercase, Lowercase,

@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+}
+
+img:hover {
+    filter: drop-shadow(4px 4px 4px #4444dd)
+}
+
+.col {
+    padding: 10px;
+}

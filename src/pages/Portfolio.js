@@ -7,7 +7,7 @@ import WDWMWT from "./assets/images/WDWMWT.png";
 import weatherDashboard from "./assets/images/WeatherDashboard.png";
 import workDayScheduler from "./assets/images/WorkDayScheduler.png";
 import Card from "react-bootstrap/Card";
-import "./Portfolio.css";
+import "./assets/css/Portfolio.css";
 
 export default function Portfolio() {
   return (

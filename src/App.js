@@ -5,10 +5,7 @@ import './App.css';
 
 const App = () => <PortfolioContainer />;
 //   return (
-//     <div className="App">
-//       <nav>WHEN I view the navigation titles
-// THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted</nav>
-//     </div>
+//   This is the foursquare API key fsq3nicE2ccIM9Zuu5Ai0WnkEEKgDO2wYuyRyIMvsqT8KsI=
 //   );
 // }
 

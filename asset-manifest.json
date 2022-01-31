@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.afd12c2d.chunk.css",
-    "main.js": "/Portfolio/static/js/main.535e497a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.535e497a.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.3aa4b9d6.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3aa4b9d6.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d213e628.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d213e628.js.map",
     "static/css/2.383c0125.chunk.css": "/Portfolio/static/css/2.383c0125.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.afd12c2d.chunk.css.map": "/Portfolio/static/css/main.afd12c2d.chunk.css.map",
     "static/js/2.8cdeca96.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.8cdeca96.chunk.js.LICENSE.txt",
     "static/media/BeecomingMe.d45fc602.png": "/Portfolio/static/media/BeecomingMe.d45fc602.png",
-    "static/media/MorganRileyT2022.b6745d19.pdf": "/Portfolio/static/media/MorganRileyT2022.b6745d19.pdf",
+    "static/media/MorganRileyT2022.2542150f.pdf": "/Portfolio/static/media/MorganRileyT2022.2542150f.pdf",
     "static/media/NoteTaker.230c991d.png": "/Portfolio/static/media/NoteTaker.230c991d.png",
     "static/media/OfflineBudget.bca28327.png": "/Portfolio/static/media/OfflineBudget.bca28327.png",
     "static/media/WDWMWT.3451cc79.png": "/Portfolio/static/media/WDWMWT.3451cc79.png",
@@ -28,6 +28,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.8cdeca96.chunk.js",
     "static/css/main.afd12c2d.chunk.css",
-    "static/js/main.535e497a.chunk.js"
+    "static/js/main.3aa4b9d6.chunk.js"
   ]
 }

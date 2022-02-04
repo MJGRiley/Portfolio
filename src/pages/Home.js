@@ -20,7 +20,7 @@ export default function Home() {
         identify errors, and help teams develop innovative solutions.
       </div>
       <ul>
-        <li><a href="https://github.com/MJGR"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></li>
+        <li><a href="https://github.com/MJGRiley"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></li>
         <li>LinkedIn</li>
         <li>Gmail</li>
       </ul>

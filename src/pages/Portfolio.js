@@ -7,11 +7,13 @@ import WDWMWT from "./assets/images/WDWMWT.png";
 import weatherDashboard from "./assets/images/WeatherDashboard.png";
 import workDayScheduler from "./assets/images/WorkDayScheduler.png";
 import Card from "react-bootstrap/Card";
+import backGround from "./assets/images/tessellation.jpg"
 import "./assets/css/Portfolio.css";
 
 export default function Portfolio() {
   return (
     <div classname="container">
+      <img class="background" src={backGround} />
       <ul className="row">
         {/* <li className="col"
       <Card style={{ width: "18rem" }}>

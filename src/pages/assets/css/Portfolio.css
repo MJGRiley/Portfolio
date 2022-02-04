@@ -1,3 +1,7 @@
+.background{
+    background-attachment: fixed;
+}
+
 ul {
     list-style: none;
 }

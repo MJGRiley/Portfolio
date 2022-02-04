@@ -1,0 +1,39 @@
+.MJGR {
+  width: 300px;
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
+  border-radius: 15px 15px 15px 15px;
+  border: 2px;
+
+}
+
+.background {
+  height: 105%;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+  z-index: -1;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.p {
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    background-color: rgba(51, 51, 51, 0.363);
+}
+
+ul {
+    list-style: none;
+}
+
+.avatar {
+    border-radius: 15px;
+}

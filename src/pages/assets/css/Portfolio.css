@@ -1,7 +1,3 @@
-.background{
-    background-attachment: fixed;
-}
-
 ul {
     list-style: none;
 }
@@ -15,5 +11,6 @@ ul {
 }
 
 .avatar {
-    max-width: 10%;
+    height: 30px;
+    width: 30px;
 }

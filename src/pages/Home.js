@@ -1,11 +1,13 @@
 import React from "react";
 import MJGR from "./assets/images/MJGR.jpg"
-import backGround from "./assets/images/tessellation.jpg"
+import Gmail from "./assets/images/Gmail_400x400.jpg"
+import Li from "./assets/images/Linkedin.png"
 import "./assets/css/Home.css"
+
+
 export default function Home() {
   return (
     <div class="wrapper">
-      <img class="background" src={backGround} />
       <img class="MJGR" src={MJGR} alt="Morgan Riley"/>
       <h1>Morgan Jon Giles Riley</h1>
       <h3>Full Stack Web Developer</h3>
@@ -21,8 +23,8 @@ export default function Home() {
       </div>
       <ul>
         <li><a href="https://github.com/MJGRiley"><img className="avatar" src="https://avatars.githubusercontent.com/u/9919?s=60&v=4" alt="GitHub" /></a></li>
-        <li>LinkedIn</li>
-        <li>Gmail</li>
+        <li><a href="https://www.linkedin.com/in/mjgriley/"><img className="avatar" src={Li}/></a></li>
+        <li><a href="mailto:MJGRiley@gmail.com"><img className="avatar" src={Gmail}/></a></li>
       </ul>
     </div>
   );
